@@ -29,8 +29,8 @@ CD      = 2.2            # [-]      — Drag coefficient (constant, per Haneveer
 
 # --- TLE1: PropCube-2, Table 1, paper ---
 TLE1 = {
-    'i_deg':     98.0,
-    'Omega_deg': 150.0,
+    'i_deg':     98.0, # original: 51.63
+    'Omega_deg': 150.0, # Original: 142.83
     'e':         0.00026,
     'omega_deg': 168.63,
     'M_deg':     191.47,
